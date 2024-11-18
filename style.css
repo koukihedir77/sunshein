@@ -1,0 +1,26 @@
+#hedir{
+    margin-top: 23px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 71px;   
+}
+
+.sizeImg{
+    width: 280px;
+    height: 280px;
+}
+
+
+#centC{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+#footerc{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: blueviolet;
+}
